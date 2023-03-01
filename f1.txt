@@ -1,4 +1,1 @@
-functin () {
-	alert('exp');;;;;
-}
-
+1
